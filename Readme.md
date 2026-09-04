@@ -2,14 +2,14 @@
 This repository contains the author's implementation in PyTorch for the paper "Open-set Cross-network Node Classification via Unknown-excluded Adversarial Graph Domain Alignment".
 
 # Environment Requirement
-Python: 3.8.20
-CUDA: 11.1
-torch==1.9.0
-numpy==1.24.4
-scipy==1.10.1
-scikit-learn==1.3.2
-networkx==3.1
-dgl==0.9.1
+- Python: 3.8.20
+- CUDA: 11.1
+- torch==1.9.0
+- numpy==1.24.4
+- scipy==1.10.1
+- scikit-learn==1.3.2
+- networkx==3.1
+- dgl==0.9.1
 
 
 For **IMDB1-2**:
