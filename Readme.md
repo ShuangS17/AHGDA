@@ -1,9 +1,9 @@
-Active Heterogeneous Graph Domain Adaptation for Cross-network Node Classification(AHGDA)
+# Active Heterogeneous Graph Domain Adaptation for Cross-network Node Classification(AHGDA)
 This repository contains the author's implementation in PyTorch for the paper "Open-set Cross-network Node Classification via Unknown-excluded Adversarial Graph Domain Alignment".
 
-Environment Requirement
-# Python: 3.8.20
-# CUDA: 11.1
+# Environment Requirement
+Python: 3.8.20
+CUDA: 11.1
 torch==1.9.0
 numpy==1.24.4
 scipy==1.10.1
