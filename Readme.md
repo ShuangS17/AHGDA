@@ -67,3 +67,6 @@ python main_label.py --epoch 200 --datasetS dblp13 --datasetT dblp12 --n-fp-laye
 --hidden1 256 --hidden2 256 --dropout 0.6 --input-drop 0.5 --lr 0.0001 --weight-decay 0 --batch-size-P 512 --batch-size-A 1024 --batch-size-V 64 \
 --ad-weightnode 0.1 --ad-weightpath 0.01 --al-weight 0.01 --amp --seeds 1
 ```
+
+# Citation
+Shuangshuang Yang, Xi Zhou, Xiao Shen. Active Heterogeneous Graph Domain Adaptation for Cross-network Node Classification. ADMA 2026, LNAI 17287, pp. 1–16, 2027.
